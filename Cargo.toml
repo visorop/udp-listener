@@ -1,5 +1,5 @@
 [package]
-name = "udp_listener"
+name = "udp-listener"
 version = "0.1.0"
 authors = ["visorop <visorop@users.noreply.github.com>"]
 edition = "2018"
