@@ -10,7 +10,7 @@ To start:
 ./udp-listener --port 9191 --buffer_size 65515
 ```
 
-If no port or buffer_size specified, defaults are port=9191, buffer_size=65515.
+If no port or buffer_size specified, defaults are port=9191, buffer_size=65515 bytes.
 
 ***
 
